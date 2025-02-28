@@ -1,0 +1,7 @@
+C:\Users\Dairo Arenas\Desktop\C#\ConsoleAppNota\bin\Debug\ConsoleAppNota.exe.config
+C:\Users\Dairo Arenas\Desktop\C#\ConsoleAppNota\bin\Debug\ConsoleAppNota.exe
+C:\Users\Dairo Arenas\Desktop\C#\ConsoleAppNota\bin\Debug\ConsoleAppNota.pdb
+C:\Users\Dairo Arenas\Desktop\C#\ConsoleAppNota\obj\Debug\ConsoleAppNota.csproj.AssemblyReference.cache
+C:\Users\Dairo Arenas\Desktop\C#\ConsoleAppNota\obj\Debug\ConsoleAppNota.csproj.CoreCompileInputs.cache
+C:\Users\Dairo Arenas\Desktop\C#\ConsoleAppNota\obj\Debug\ConsoleAppNota.exe
+C:\Users\Dairo Arenas\Desktop\C#\ConsoleAppNota\obj\Debug\ConsoleAppNota.pdb

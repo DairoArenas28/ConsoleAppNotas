@@ -10,6 +10,8 @@ namespace ConsoleAppNota
     {
         static void Main(string[] args)
         {
+            Asignatura asig = new Asignatura("Matematicas", 4);
+            asig.CrearNota("Examen",4.5d,10);
         }
     }
 }

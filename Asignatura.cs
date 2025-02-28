@@ -16,6 +16,8 @@ namespace ConsoleAppNota
         public Dictionary<String, double> nota = new Dictionary<String, double>();
         public Dictionary<String, double> asignaturaPonderada = new Dictionary<string, double>();
 
+        double notaParcial;
+
         public Asignatura(String nombre, int credito)
         {
             this.nombre = nombre;
@@ -23,6 +25,30 @@ namespace ConsoleAppNota
         }
 
         public void CrearNota(String nombre, double valor, double porcentaje)
+        {
+            nombreNota.Add(nombre);
+            valorNota.Add(valor);
+            porcentajeNota.Add(porcentaje/100);
+
+            nota.Add(nombre, (valor * (porcentajeNota[0])));
+        }
+
+        public void ModificarNota()
+        {
+
+        }
+
+        public void EliminarNota()
+        {
+
+        }
+
+        public void RecalcularPromedio()
+        {
+
+        }
+
+        public void MostrarNota()
         {
 
         }
